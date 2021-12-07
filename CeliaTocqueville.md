@@ -1,5 +1,6 @@
 # Célia Tocqueville
-
+<img src="./../0.jpg" alt="drawing" width="130"/>
+<br>
 Bonjour à tous, je vous vous souhaite la bienvenu que mon GitHub. 
 Jeune développeuse, je suis passionnée par le code depuis de nombreuses années. 
 Ma formation au sein de l'école O'clock fut passionnante. 
