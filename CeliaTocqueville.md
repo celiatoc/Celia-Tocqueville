@@ -8,35 +8,53 @@ Ma formation au sein de l'école O'clock fut passionnante.
 Ma formation s'est déroulée de début juin 2021 à fin novembre 2021.
 Nous avons tout au long de cette formation été formés en tant que développeur Fullstack Javascript. 
 Elle se découpe comme ceci :
+<br>
 -3 mois de socle (HTML, CSS, Javascript, Base
 de données)
+<br>
 -1 mois de spécialisation Data/Api
+<br>
 -1 mois de projet professionnel
 
 # Mes compétences
-Gestion de projet
+**Gestion de projet**
+<br>
 -Méthode Agile
+<br>
 -Git/GitHub
 
-Front-end
+**Front-end**
+<br>
 -HTML/CSS
+<br>
 -Javascript
 
-Base de Données
+**Base de Données**
+<br>
 -PostgreSQL
+<br>
 -MySQL
+<br>
 -Sqitch
 
-API
+**API**
+<br>
 -NodeJS - Framework Express
+<br>
 -Sequelize
+<br>
 -Modules npm
+<br>
 -Architecture MVC
+<br>
 -API REST
+<br>
 -Moteur de template EJS
 
-Validation de données 
+**Validation de données** 
+<br>
 -Regex
+<br>
 -Joi
 
 # Mes expériences dans le développement web
